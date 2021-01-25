@@ -9,6 +9,7 @@ def load_library(path)
   new_hash[key][:japanese] = value[1]
 end
   new_hash
+end
 
 def get_japanese_emoticon
   # code goes here
